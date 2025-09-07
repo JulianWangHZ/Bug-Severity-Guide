@@ -8,18 +8,18 @@ In addition to **Priority (P0–P4)**—which determines *when* we fix an issue�
 ---
 
 ## 📚 Table of Contents
-- [📘 Why Severity and Priority?](#why-severity-and-priority)
-- [🧭 Definitions at a Glance](#definitions-at-a-glance)
-- [🧱 Severity Levels](#severity-levels)
+- [Why Severity and Priority?](#why-severity-and-priority)
+- [Definitions at a Glance](#definitions-at-a-glance)
+- [Severity Levels](#severity-levels)
   - [🔴 A — Critical](#-a--critical)
   - [🟡 B — Serious](#-b--serious)
   - [🔵 C — Non-critical](#-c--non-critical)
-- [🗺️ How Severity Maps to Priority](#how-severity-maps-to-priority)
-- [🧪 How to Choose Quickly (Rubric)](#how-to-choose-quickly-rubric)
+- [How Severity Maps to Priority](#how-severity-maps-to-priority)
+- [How to Choose Quickly (Rubric)](#how-to-choose-quickly-rubric)
 
 ---
 
-## 📘  Why Severity and Priority?
+##  Why Severity and Priority?
 
 - **Severity = Impact** (how bad the problem is for users/system)  
 - **Priority = Urgency** (how soon we should fix it)
@@ -28,14 +28,14 @@ In addition to **Priority (P0–P4)**—which determines *when* we fix an issue�
 
 ---
 
-## 🧭  Definitions at a Glance
+##  Definitions at a Glance
 
 - **Severity (A/B/C):** Ranges from system-level failures and security risks (**A**) to visual/wording issues (**C**).
 - **Priority (P0–P4):** Scheduling lever from “fix immediately” (**P0**) to “nice to have” (**P4**).
 
 ---
 
-## 🧱 Severity Levels
+##  Severity Levels
 
 ### 🔴 A — Critical
 Severe, system-level impact or security risk. Requires immediate attention to avoid major business impact.
@@ -85,7 +85,7 @@ UI or wording issues that do not affect core functionality or business decisions
 
 ---
 
-## 🗺️ How Severity Maps to Priority
+##  How Severity Maps to Priority
 
 > This table shows **common** pairings. Product/engineering may adjust based on context, release stage, customer commitments, and risk.
 
@@ -97,7 +97,7 @@ UI or wording issues that do not affect core functionality or business decisions
 
 ---
 
-## 🧪 How to Choose Quickly (Rubric)
+##  How to Choose Quickly (Rubric)
 
 - **Does it block all users or expose data/security?** → **Severity A**
 - **Does it break a key flow but has a viable workaround?** → **Severity B**
