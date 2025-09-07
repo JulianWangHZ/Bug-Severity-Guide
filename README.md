@@ -8,14 +8,14 @@ In addition to **Priority (P0–P4)**—which determines *when* we fix an issue�
 ---
 
 ## 📚 Table of Contents
-- [📘 Why Severity and Priority?](#-why-severity-and-priority)
-- [🧭 Definitions at a Glance](#-definitions-at-a-glance)
-- [🧱 Severity Levels](-#severity-levels)
+- [📘 Why Severity and Priority?](#why-severity-and-priority)
+- [🧭 Definitions at a Glance](#definitions-at-a-glance)
+- [🧱 Severity Levels](#severity-levels)
   - [🔴 A — Critical](#-a--critical)
   - [🟡 B — Serious](#-b--serious)
   - [🔵 C — Non-critical](#-c--non-critical)
-- [🗺️ How Severity Maps to Priority](#-how-severity-maps-to-priority)
-- [🧪 How to Choose Quickly (Rubric)](#-how-to-choose-quickly-rubric)
+- [🗺️ How Severity Maps to Priority](#how-severity-maps-to-priority)
+- [🧪 How to Choose Quickly (Rubric)](#how-to-choose-quickly-rubric)
 
 ---
 
